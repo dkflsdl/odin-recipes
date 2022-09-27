@@ -1,0 +1,19 @@
+h1,
+h2,
+h3,
+li,
+p {
+    font-family: Helvetica, Tahoma, sans-serif;
+}
+
+li,
+p {
+    color: #229954;
+    font-size: 20px;
+}
+
+h1,
+h2,
+h3 {
+    color: #52BE80;
+}
